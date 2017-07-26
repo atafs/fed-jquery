@@ -1,5 +1,7 @@
 # fed-jquery
-Concepts and technics used in JQuery:
+Tutorial: https://www.youtube.com/watch?v=BWXggB-T1jQ
+
+# Concepts and technics used in JQuery:
 
 ## XXX
 - xxx
