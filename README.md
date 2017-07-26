@@ -1,2 +1,5 @@
 # fed-jquery
-JQuery
+Concepts and technics used in JQuery:
+
+## XXX
+- xxx
